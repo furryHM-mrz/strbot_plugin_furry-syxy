@@ -1,0 +1,6 @@
+name: strbot_plugin_furry-syxy # 这是你的插件的唯一识别名。
+desc: 自定义文字菜单。 # 插件简短描述
+help: 插件会查找 zp 文件夹中的 cmd.txt 文件# 插件的帮助信息
+version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: furryhm # 作者
+repo: https://github.com/furryHM-mrz/strbot_plugin_furry-syxy # 插件的仓库地址
