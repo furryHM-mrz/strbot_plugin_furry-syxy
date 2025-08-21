@@ -92,3 +92,5 @@ strbot_plugin_furry-syxy/
 ## 开源许可
 
 本项目基于 LICENSE 文件中的条款进行许可。
+
+基于插件[custom_menu](https://github.com/Futureppo/astrbot_plugin_custom_menu)改编的
